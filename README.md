@@ -59,5 +59,14 @@ End-to-End Implementation Pipeline (Steps 01–05)
 
 <img width="1408" height="768" alt="Image 2 End-to-End Implementation Pipeline (Steps 01–05)" src="https://github.com/user-attachments/assets/03d964ad-f8fa-49c1-964c-7570de988a2e" />
 
+Webapp UI :
+
+<img width="1717" height="832" alt="image" src="https://github.com/user-attachments/assets/e04b73fb-c119-4190-9a5c-077c11c564a9" />
+
+<img width="1371" height="846" alt="image" src="https://github.com/user-attachments/assets/1512d651-99b4-456b-8c8f-40098cb4ebb6" />
+
+<img width="1005" height="832" alt="image" src="https://github.com/user-attachments/assets/85196a8d-e8f9-4e6d-9973-f7a8f6e9d6a3" />
+
+
 
 
