@@ -1,0 +1,75 @@
+langchain
+langchain-core
+langchain-community
+langchain-arxiv
+langchain-arxiv-retriever
+
+# LLM Providers
+
+langchain-openai
+langchain-mistralai
+openai
+mistralai
+langchain_huggingface
+langchain-google-genai
+langchain-groq
+
+# Vector Database
+
+chromadb
+
+# Embedding Models
+
+sentence-transformers
+
+# Document Loaders dependencies
+
+pypdf
+unstructured
+beautifulsoup4
+lxml
+
+# Text Processing
+
+tiktoken
+
+# Environment Variables
+
+python-dotenv
+
+# Data Handling
+
+pandas
+numpy
+
+# API / App Layer (optional but common in RAG apps)
+
+fastapi
+uvicorn
+
+# UI (optional)
+
+streamlit
+
+# Utilities
+
+tqdm
+requests
+
+# Async support (important for agents/tools)
+aiohttp
+
+# Logging / debugging (optional but recommended)
+rich
+
+# Retry + robustness
+tenacity
+
+# JSON handling improvements
+orjson
+
+# Typing support (helps in bigger projects)
+pydantic
+
+# Optional (for advanced parsing / HTML cleanup)
+html5lib
