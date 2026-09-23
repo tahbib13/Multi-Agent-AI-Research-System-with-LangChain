@@ -49,5 +49,11 @@ UI File is  app.py
 
 Running command : streamlit run app.py
 
+Diagram Section :
+
+System Architecture Diagram
+
+<img width="1408" height="768" alt="Image 1 Title System Architecture Diagram" src="https://github.com/user-attachments/assets/03d964ad-f8fa-49c1-964c-7570de988a2e" />
+
 
 
