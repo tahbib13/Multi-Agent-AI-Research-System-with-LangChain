@@ -53,10 +53,11 @@ Diagram Section :
 
 System Architecture Diagram
 
-<img width="1408" height="768" alt="Image 1 Title End-to-End Implementation Pipeline (Steps 01–05)" src="https://github.com/user-attachments/assets/2c898b16-bc9f-431b-89a9-bdf8d881a924" />
+<img width="1408" height="768" alt="Image 1 System Architecture Diagram (Steps 01–05)" src="https://github.com/user-attachments/assets/2c898b16-bc9f-431b-89a9-bdf8d881a924" />
 
+End-to-End Implementation Pipeline (Steps 01–05)
 
-<img width="1408" height="768" alt="Image 1 Title System Architecture Diagram" src="https://github.com/user-attachments/assets/03d964ad-f8fa-49c1-964c-7570de988a2e" />
+<img width="1408" height="768" alt="Image 2 End-to-End Implementation Pipeline (Steps 01–05)" src="https://github.com/user-attachments/assets/03d964ad-f8fa-49c1-964c-7570de988a2e" />
 
 
 
